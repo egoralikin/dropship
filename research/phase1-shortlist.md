@@ -1,8 +1,8 @@
 # Phase 1 — Product Shortlist
 
-**Prepared:** 2026-09-17 · **Revised:** 2026-09-17 (limits set; NO-verdict products dropped; quote status labelled)
-**Status:** Hypothesis list. **Every figure is ESTIMATED. Zero CJ quotes pulled.** See §2.
-**Spend to date:** $0
+**Prepared:** 2026-09-17 · **Revised:** 2026-09-17 (rev 3 — Bundle A dropped on Amazon price floor; Desk Set promoted to hero)
+**Status:** **Every figure is ESTIMATED. Zero CJ quotes pulled.** See §2.
+**Spend to date:** $0 · **Samples ordered:** none
 
 ---
 
@@ -92,62 +92,69 @@ Every candidate below is one of those three. That is the thesis of this list.
 
 ---
 
-## 4. The shortlist — 7 candidates
+## 4. The shortlist — 6 candidates
 
-Three products (reusable pet-hair set, silicone air-fryer liner kit, sunset projector lamp) have been **dropped** per your instruction. All three failed the "not sold cheaply everywhere" rule and were the most-copied SKUs in the category. They are recorded in §4.1 so the decision stays auditable, not to keep them alive.
+**Four products dropped.** Three on the "sold cheaply everywhere" rule in rev 2; the desk cable kit added
+in rev 3 after web research found a ~$15 accessory kit and a 26-piece tray-plus-clips kit on Prime.
 
-Sell price = my proposed price. Cost = product + shipping to US.
-**Quote status for every row below: [EST] — no CJ quote pulled.**
+Sell prices below are the **bundle configurations** from `phase2-bundles-and-access.md`.
+**Quote status for every row: [EST] — no CJ quote pulled.**
 
-| # | Product | Cost [EST] | Sell | GM $ | GM % | Markup | Ship US [EST] | Competition | Verdict |
-|---|---|---|---|---|---|---|---|---|---|
-| 1 | Desk cable-management **kit** (tray + magnetic clips + sleeve + channels) | $11–14 | $39 | $25–28 | 64–72% | 2.8–3.5× | 7–10d | High on parts, **low on kits** | **GO — hero** |
-| 2 | Wool-felt desk mat set (mat + coaster + cord catch) | $13–16 | $45 | $29–32 | 64–71% | 2.8–3.5× | 7–12d | Medium | **GO — same niche as #1** |
-| 3 | Dog car seat hammock + door shields + seatbelt tether | $15–19 | $54 | $35–39 | 65–72% | 2.8–3.6× | 8–12d | Medium | **GO — held as pivot** |
-| 4 | Fit-specific fridge organization set (bins + labels + liners) | $13–17 | $42 | $25–29 | 60–69% | 2.5–3.2× | 10–15d | Medium | WATCH |
-| 5 | Elevated tilted slow-feeder bowl set (steel/bamboo, **not ceramic**) | $14–18 | $46 | $28–32 | 61–70% | 2.6–3.3× | 10–14d | Medium | WATCH |
-| 6 | Under-monitor light bar, USB-powered | $14–18 | $45 | $27–31 | 60–69% | 2.5–3.2× | 8–14d | High | WATCH |
-| 7 | Aluminium monitor riser w/ drawer | $16–21 | $49 | $28–33 | 57–67% | 2.3–3.1× | 12–18d | High | WATCH |
-
-The $39–54 prices above are the **original single-kit configurations**. They are superseded by the $60–80 bundle redesign in `research/phase2-bundles-and-access.md`, which is the version to actually price against. This table is kept as the baseline the redesign is measured from.
+| # | Product | Landed [EST] | Sell | Contribution | BE ROAS | Ship US [EST] | Competition | Verdict |
+|---|---|---|---|---|---|---|---|---|
+| 2 | **Wool-felt Desk Set** (mat + mousepad + coasters + cord catch + tray) | $22.00 | **$75** | $48.64 | 1.54× | 7–12d | Medium | **HERO** |
+| 3 | **Dog Car Travel Kit** (hammock + door shields + tether + bowl + gap catchers) | $28.20 | **$79** | $42.68 | 1.85× | 8–12d | Medium | **SECOND SKU** |
+| 4 | Fit-specific fridge organization set | $13–17 | $42 | — | — | 10–15d | Medium | WATCH |
+| 5 | Elevated tilted slow-feeder bowl set (steel/bamboo, not ceramic) | $14–18 | $46 | — | — | 10–14d | Medium | WATCH |
+| 6 | Under-monitor light bar, USB-powered | $14–18 | $45 | — | — | 8–14d | High | WATCH |
+| 7 | Aluminium monitor riser w/ drawer | $16–21 | $49 | — | — | 12–18d | High | WATCH |
 
 ### 4.1 Dropped — decision record
 
-| Product | Verdict | Reason |
+| Product | Dropped | Reason |
 |---|---|---|
-| Reusable pet-hair removal set | DROPPED | $8–14 on Amazon, ~$5 Temu. No pricing room. |
-| Silicone air-fryer liner + accessory kit | DROPPED | $9–19 on Amazon. Commodity; repeat-purchase upside doesn't survive the CPA. |
-| Sunset / aurora projector lamp | DROPPED | Most-copied dropship SKU of the last 3 years; known LED/motor return rate. |
+| **Desk cable-management kit ($69)** | **rev 3** | **Amazon Prime carries a ~$15 accessory kit (clips/ties/holders/sleeves) and single listings such as KHAMAL's 26-piece tray kit bundle a tray with clips and ties. A complete kit at ≤$40 defeats a $69 bundle.** Pending final confirmation of the KHAMAL price; revived only if it lands well above $40. |
+| Reusable pet-hair removal set | rev 2 | $8–14 Amazon, ~$5 Temu. No pricing room. |
+| Silicone air-fryer liner kit | rev 2 | $9–19 Amazon. Commodity. |
+| Sunset / aurora projector lamp | rev 2 | Most-copied dropship SKU of the last 3 years; known LED/motor return rate. |
+
+**The kit thesis took real damage here.** Bundle A was the cleanest expression of "a bundle isn't directly
+price-comparable to a single SKU on Amazon," and Amazon turned out to already sell the bundle. That same
+test now has to be run against the Desk Set before it inherits hero status — see `deskset-check-brief.md`.
 
 ---
 
-## 5. Detail on the three GO products
+## 5. Detail on the two live products
 
-### #1 — Desk cable-management kit — **hero**
+### #2 — Wool-felt Desk Set — $75 — **HERO**
 
-- **Problem:** genuinely felt, visible, universal among desk/WFH buyers.
-- **Creative:** before/after is the entire ad. Strongest short-form hook here; near-zero scripting risk.
-- **Why it survives the Amazon test:** individual trays are $15–28 and commoditised. A kit solving the whole desk in one purchase isn't directly comparable, which is what lets you hold a price point.
-- **Physical:** ~400–600g, steel/plastic/velcro, effectively unbreakable. Low return risk.
-- **Certification:** none required — no battery, no mains power. Keeps you clear of your own electronics exclusion.
-- **Risks:** adhesive failure on textured desks will be complaint #1 → clamp-mount over adhesive-only, and say so honestly in the copy.
-
-### #2 — Wool-felt desk mat set — **same store as #1**
-
-- **Why:** design-led, so price is carried by material and colorway rather than function. Highest brand potential here and the natural AOV-raiser next to #1.
-- **Physical:** light, flat, cheap to ship, cannot break. **Lowest return risk on the list.**
+- **Why it's now hero:** design-led, so price is carried by material and colorway rather than function.
+  That's a different defence from Bundle A's — a bundle-of-parts can be out-bundled by Amazon, but a
+  material-and-finish proposition competes on taste. It's a better thesis, and it's why this survived.
+- **Physical:** light, flat, cannot break. **Lowest return risk on the list.**
+- **Certification:** none — no battery, no mains power.
 - **Creative:** flat-lay and desk-setup content; evergreen, not trend-dependent.
-- **Risks:** felt quality varies sharply — polyester passed off as wool is common. Sample check essential. **No "wool" claim in copy unless the sample and CJ spec both support it.**
-- **Note:** plain colorways only — prints are where IP risk creeps in.
+- **Risks:**
+  - *Fibre honesty.* Polyester sold as wool is common. **No "wool" claim unless the CJ listing and the
+    physical sample both support it.** Otherwise it's "felt", same price, honest description.
+  - *Oversized shipping.* An 80×40cm rolled mat is exactly the shape that triggers CJ's oversized-package
+    fee. This is now the single biggest cost unknown — see §6.
+  - *Amazon floor, unproven.* The test that killed Bundle A has not yet been run against this product.
+- **Plain colorways only** — prints are where IP risk enters.
 
-### #3 — Dog car seat hammock kit — **held in reserve**
+### #3 — Dog Car Travel Kit — $79 — **SECOND SKU**
 
-- **Why:** highest absolute margin, and pet has real audience loyalty. Fit-specific ("does it fit my car/dog") suppresses raw price comparison.
+- **Why:** highest absolute margin among survivors. Fit-specific ("does it fit my car/dog") suppresses raw
+  price comparison — the same defence that failed for cable parts works here, because fit isn't a spec you
+  can price-match on.
 - **Physical:** folds flat, ~700g–1kg, unbreakable.
-- **Creative:** dog-in-car footage performs and is cheap to shoot — **real dogs, real cars only**. No stock footage presented as customer content.
-- **Risks:** sizing/fit returns are the main driver; needs an explicit vehicle-fit guide, which doubles as a moat.
-- **Hard limit:** no crash-protection or restraint-safety claims. Untestable, unbackable, and precisely the kind of claim that draws a Meta policy strike.
-- **Why reserve and not test:** it's a different niche from #1/#2, so testing it means a second store, second pixel, second audience. At $1,000 that's unaffordable. It's the pivot if the desk niche fails.
+- **Creative:** real dogs, real cars. No stock footage presented as customer content.
+- **Risks:** sizing/fit returns drive the 7% reserve. Needs an explicit vehicle-fit guide, which doubles as
+  a moat.
+- **Hard limit:** no crash-protection, restraint, or safety claims. Untestable, unbackable, and the exact
+  shape of claim that draws a Meta policy strike.
+- **⚠ Niche conflict — see `phase2-bundles-and-access.md` §0.** This sits in pet/auto, not desk. Running it
+  as a second SKU *inside the same store* contradicts the single-niche principle in §8.
 
 ---
 
@@ -169,8 +176,13 @@ No sample has been ordered and none will be. When we reach that point I will giv
 
 ## 8. Two honest flags
 
-1. **I cannot verify demand from here.** Ad libraries and trend tools are unreachable in this environment. This list is reasoning, not evidence. The Claude-in-Chrome checks in the companion document are what convert it — until those are run, funding a test on this list means funding my judgement.
-2. **Pick the niche before the product.** #1 and #2 form a coherent desk/home-office store; #3 and #5 form a pet store. Mixing them makes the store read as a generic dropshipper, which is what kills conversion rate. **Recommendation: desk/home-office, #1 as hero, #2 as the AOV-raising second SKU, #3 held as the pivot.**
+1. **I still cannot verify demand from here.** Ad libraries and trend tools are unreachable in this
+   environment. Rev 3's Bundle A kill came from *your* browser research, not mine — which is precisely the
+   pattern that should continue. Until the Desk Set clears the same checks, funding it means funding my
+   judgement.
+2. **One niche per store.** Rev 3 puts a felt desk mat and a dog car hammock in the same shortlist as hero
+   and second SKU. Those are two audiences, not one. Options in `phase2-bundles-and-access.md` §0 — this
+   needs a decision before any store gets built.
 
 ---
 
