@@ -1,7 +1,7 @@
 # Phase 1 — Product Shortlist
 
-**Prepared:** 2026-09-17
-**Status:** Hypothesis list. Not validated. See "Data limitations" before acting on any number here.
+**Prepared:** 2026-09-17 · **Revised:** 2026-09-17 (limits set; NO-verdict products dropped; quote status labelled)
+**Status:** Hypothesis list. **Every figure is ESTIMATED. Zero CJ quotes pulled.** See §2.
 **Spend to date:** $0
 
 ---
@@ -23,22 +23,25 @@ The brief grants me "your Shopify store, supplier app, and ad accounts." In this
 
 So Phases 2–5 cannot start until credentials/integrations are connected. I am not going to pretend otherwise.
 
-### 1.2 Every limit in the brief is still a placeholder
+### 1.2 Operating limits — CONFIRMED
 
-Nothing below spends money, so Phase 1 proceeds. But I cannot run Phase 4 without these:
+| Limit | Value |
+|---|---|
+| Total budget | **$1,000** (all-in: ads + samples + platform) |
+| Daily ad cap | **$30 per product** |
+| Kill rule A | **$50 spent, no sale** |
+| Kill rule B | **Below break-even ROAS after 3 days** |
+| Approval threshold | **Anything over $50** |
+| Target market | **US only** |
+| Supplier | **CJ** primary; DSers / AutoDS backup |
+| Ad platform | **Meta first** |
+| Samples | **NOT pre-approved.** Each needs explicit OK; you place the orders |
+| Payouts / banking | Never mine, under any circumstance |
 
-| Placeholder | Needed for | Suggested default if you want me to just pick |
-|---|---|---|
-| `$X` total test budget | Overall go/no-go | $1,500 |
-| `$Y` daily ad cap | Launch | $50/day |
-| `$Z` kill threshold, no sale | Kill rules | 2× break-even CPA (~$55 at $39 AOV) |
-| `[N]` days before reading results | Kill rules | 4 days |
-| `$W` approval threshold | Escalation | $100 |
-| `[target countries]` | **Shipping times + this entire shortlist** | Assumed **US-only** below |
-| `[DSers/AutoDS/CJ]` | Sourcing | — |
-| `[Meta/TikTok]` | Creative format + testing | — |
+Two things inside these limits need your sign-off before they happen, because both cross the $50 / paid-tool line:
 
-**The target-country assumption is material.** I assumed US. If you're targeting UK/EU/AU, sourcing changes (EU warehouses, VAT/IOSS registration, GPSR — which since Dec 2024 requires a named EU Responsible Person on general consumer products), and at least three items below become unviable on shipping time.
+- **Shopify subscription** (~$39/mo) — a paid tool, so it needs your OK even though it's under $50.
+- **Any sample order** — see §7 for the list and estimated cost.
 
 ---
 
@@ -51,7 +54,14 @@ I want to be blunt, because the "demand signal" column is the part you'd most wa
 - **Most sources reachable by search are SEO content farms** run by dropshipping tool vendors. Their "winning product" lists are marketing for the tool and are, by construction, lists everyone else is also reading. I used them for category direction only, and deliberately did not simply copy their picks.
 - **No supplier has been vetted.** Ratings, order volumes, and consistency are Phase 2 and require account access.
 
-Anything marked **[EST]** is my estimate. Nothing in this document is a verified figure.
+**Quote-status labels used throughout:**
+
+| Label | Meaning |
+|---|---|
+| **[EST]** | My estimate from category norms. ±40%. Not from any supplier account. |
+| **[QUOTED]** | Pulled from a live CJ listing, with URL and date recorded. |
+
+**Right now every figure in this document is [EST]. There are zero [QUOTED] figures.** `research/cj-quote-worksheet.md` is the blank worksheet that converts them; nothing moves to Phase 3 until it is filled.
 
 ---
 
@@ -82,100 +92,85 @@ Every candidate below is one of those three. That is the thesis of this list.
 
 ---
 
-## 4. The shortlist
+## 4. The shortlist — 7 candidates
 
-Sell price = my proposed price. Cost = product + shipping to US **[EST]**. Margin = gross, before ads, fees, refunds.
+Three products (reusable pet-hair set, silicone air-fryer liner kit, sunset projector lamp) have been **dropped** per your instruction. All three failed the "not sold cheaply everywhere" rule and were the most-copied SKUs in the category. They are recorded in §4.1 so the decision stays auditable, not to keep them alive.
 
-| # | Product | Cost [EST] | Sell | GM $ | GM % | Markup | Ship (US) [EST] | Competition | Verdict |
+Sell price = my proposed price. Cost = product + shipping to US.
+**Quote status for every row below: [EST] — no CJ quote pulled.**
+
+| # | Product | Cost [EST] | Sell | GM $ | GM % | Markup | Ship US [EST] | Competition | Verdict |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Desk cable-management **kit** (tray + magnetic clips + sleeve + channels) | $11–14 | $39 | $25–28 | 64–72% | 2.8–3.5× | 7–10d | High on parts, **low on kits** | **GO** |
-| 2 | Wool-felt desk mat set (mat + coaster + cord catch) | $13–16 | $45 | $29–32 | 64–71% | 2.8–3.5× | 7–12d | Medium | **GO** |
-| 3 | Dog car seat hammock + door shields + seatbelt tether | $15–19 | $54 | $35–39 | 65–72% | 2.8–3.6× | 8–12d | Medium | **GO** |
+| 1 | Desk cable-management **kit** (tray + magnetic clips + sleeve + channels) | $11–14 | $39 | $25–28 | 64–72% | 2.8–3.5× | 7–10d | High on parts, **low on kits** | **GO — hero** |
+| 2 | Wool-felt desk mat set (mat + coaster + cord catch) | $13–16 | $45 | $29–32 | 64–71% | 2.8–3.5× | 7–12d | Medium | **GO — same niche as #1** |
+| 3 | Dog car seat hammock + door shields + seatbelt tether | $15–19 | $54 | $35–39 | 65–72% | 2.8–3.6× | 8–12d | Medium | **GO — held as pivot** |
 | 4 | Fit-specific fridge organization set (bins + labels + liners) | $13–17 | $42 | $25–29 | 60–69% | 2.5–3.2× | 10–15d | Medium | WATCH |
 | 5 | Elevated tilted slow-feeder bowl set (steel/bamboo, **not ceramic**) | $14–18 | $46 | $28–32 | 61–70% | 2.6–3.3× | 10–14d | Medium | WATCH |
 | 6 | Under-monitor light bar, USB-powered | $14–18 | $45 | $27–31 | 60–69% | 2.5–3.2× | 8–14d | High | WATCH |
 | 7 | Aluminium monitor riser w/ drawer | $16–21 | $49 | $28–33 | 57–67% | 2.3–3.1× | 12–18d | High | WATCH |
-| 8 | Reusable pet-hair removal set (no electronics) | $7–9 | $29 | $20–22 | 69–76% | 3.2–4.1× | 7–10d | **Very high** | NO |
-| 9 | Silicone air-fryer liner + accessory kit | $7–10 | $27 | $17–20 | 63–74% | 2.7–3.9× | 7–12d | **Very high** | NO |
-| 10 | Sunset/aurora projector lamp | $9–13 | $34 | $21–25 | 62–74% | 2.6–3.8× | 8–14d | **Very high** | NO |
 
-### Why the three NOs are still on the list
+The $39–54 prices above are the **original single-kit configurations**. They are superseded by the $60–80 bundle redesign in `research/phase2-bundles-and-access.md`, which is the version to actually price against. This table is kept as the baseline the redesign is measured from.
 
-You asked for ten, so here are ten — but padding a shortlist with items I'd refuse to launch would be dishonest. #8–10 are the ones every tool-vendor list is currently pushing. All three fail your own "not sold cheaply everywhere" rule: identical units sit at $8–19 on Amazon and roughly half that on Temu. #10 additionally has a known return-rate problem (LED/motor failure) and is the single most-copied dropshipping SKU of the last three years. I'd drop all three rather than test them.
+### 4.1 Dropped — decision record
+
+| Product | Verdict | Reason |
+|---|---|---|
+| Reusable pet-hair removal set | DROPPED | $8–14 on Amazon, ~$5 Temu. No pricing room. |
+| Silicone air-fryer liner + accessory kit | DROPPED | $9–19 on Amazon. Commodity; repeat-purchase upside doesn't survive the CPA. |
+| Sunset / aurora projector lamp | DROPPED | Most-copied dropship SKU of the last 3 years; known LED/motor return rate. |
 
 ---
 
-## 5. Detail on the three recommended
+## 5. Detail on the three GO products
 
-### #1 — Desk cable-management kit — $39
+### #1 — Desk cable-management kit — **hero**
 
-- **Problem:** genuinely felt, visible, and universal among desk/WFH buyers.
-- **Creative:** before/after is the entire ad. Strongest short-form hook on this list; near-zero scripting risk.
-- **Why it survives the Amazon test:** individual trays are $15–28 on Amazon and commoditised. A *kit* that solves the whole desk in one purchase is not directly comparable, and lets you own a price point.
+- **Problem:** genuinely felt, visible, universal among desk/WFH buyers.
+- **Creative:** before/after is the entire ad. Strongest short-form hook here; near-zero scripting risk.
+- **Why it survives the Amazon test:** individual trays are $15–28 and commoditised. A kit solving the whole desk in one purchase isn't directly comparable, which is what lets you hold a price point.
 - **Physical:** ~400–600g, steel/plastic/velcro, effectively unbreakable. Low return risk.
-- **Certification:** none required — no battery, no mains power. This matters; it keeps you clear of your own electronics exclusion.
-- **Risks:** adhesive failure on textured desks is the likely #1 complaint → must be addressed honestly in the copy, and clamp-mount preferred over adhesive-only.
+- **Certification:** none required — no battery, no mains power. Keeps you clear of your own electronics exclusion.
+- **Risks:** adhesive failure on textured desks will be complaint #1 → clamp-mount over adhesive-only, and say so honestly in the copy.
 
-### #2 — Wool-felt desk mat set — $45
+### #2 — Wool-felt desk mat set — **same store as #1**
 
-- **Why:** design-led, so price is carried by material and colorway rather than function. Highest brand-building potential here, and the most natural fit for a single-niche store alongside #1.
-- **Physical:** light, flat, cheap to ship, literally cannot break. **Lowest return risk on the list.**
+- **Why:** design-led, so price is carried by material and colorway rather than function. Highest brand potential here and the natural AOV-raiser next to #1.
+- **Physical:** light, flat, cheap to ship, cannot break. **Lowest return risk on the list.**
 - **Creative:** flat-lay and desk-setup content; evergreen, not trend-dependent.
-- **Risks:** felt quality varies sharply between suppliers (polyester passed off as wool). Sample check is essential, and the copy must state the actual fibre content — no "wool" claim unless the sample and supplier spec support it.
-- **Note:** colorway/print selection is where IP risk would creep in. Plain colorways only.
+- **Risks:** felt quality varies sharply — polyester passed off as wool is common. Sample check essential. **No "wool" claim in copy unless the sample and CJ spec both support it.**
+- **Note:** plain colorways only — prints are where IP risk creeps in.
 
-### #3 — Dog car seat hammock kit — $54
+### #3 — Dog car seat hammock kit — **held in reserve**
 
-- **Why:** highest absolute margin on the list, and pet is repeatedly cited as a category with margins plus real audience loyalty. Fit-specific ("does it fit my car/dog") suppresses raw price comparison.
+- **Why:** highest absolute margin, and pet has real audience loyalty. Fit-specific ("does it fit my car/dog") suppresses raw price comparison.
 - **Physical:** folds flat, ~700g–1kg, unbreakable.
-- **Creative:** dog-in-car footage is high-performing and cheap to produce — but **only with real dogs and real cars**. No stock footage passed off as customer content.
-- **Risks:** sizing/fit returns are the main driver. Needs an explicit vehicle-fit guide, which is a real content asset and a competitive moat.
-- **Watch:** anchor-strap safety claims. Do **not** claim crash protection or restraint safety — that is a testable safety claim you cannot back, and it is exactly the kind of thing that draws a platform policy strike.
+- **Creative:** dog-in-car footage performs and is cheap to shoot — **real dogs, real cars only**. No stock footage presented as customer content.
+- **Risks:** sizing/fit returns are the main driver; needs an explicit vehicle-fit guide, which doubles as a moat.
+- **Hard limit:** no crash-protection or restraint-safety claims. Untestable, unbackable, and precisely the kind of claim that draws a Meta policy strike.
+- **Why reserve and not test:** it's a different niche from #1/#2, so testing it means a second store, second pixel, second audience. At $1,000 that's unaffordable. It's the pivot if the desk niche fails.
 
 ---
 
-## 6. Unit economics you should sanity-check before funding anything
+## 6. Unit economics
 
-Worked at #1's numbers ($39 sell, $12.50 landed cost):
+Superseded — see `research/phase2-bundles-and-access.md` §2, which recomputes break-even ROAS and maximum CPA against your confirmed $1,000 / $30-day / $50-kill limits at the $60–80 bundle prices.
 
-```
-Sell price                     $39.00
-Landed cost (product+ship)    -$12.50
-Payment fees (2.9% + $0.30)    -$1.43
-Est. refunds/replacements @4%  -$1.56
---------------------------------------
-Contribution before ads         $23.51
-
-Break-even CPA                  $23.51
-Break-even ROAS                  1.66x
-Target ROAS for real profit      2.5x+
-```
-
-**This is the number that decides the business, not the product.** At a 1.66× break-even, you need a sub-$24 CPA. If your real-world CPA lands at $35–45 — common for a cold-traffic single-product store on either platform — this product cannot be profitable at $39 no matter how good the creative is. The fixes are a higher AOV (bundle/upsell to $59–79) or a lower CPA, and the honest time to discover which is *before* spending, not after.
-
-I'd want your read on this before Phase 4.
+The conclusion from the original $39 configuration still holds and is the reason for the redesign: **at $39 the break-even CPA was ~$24, and a realistic cold-traffic Meta CPA of $35–45 makes that unprofitable regardless of creative quality.** Raising AOV is the lever.
 
 ---
 
-## 7. What I need from you
+## 7. Samples — none ordered, none approved
 
-**To finish validating this list (no spend, but needs access):**
-- Supplier app credentials, or export me a cost/shipping sheet for #1–#7 so I can replace every **[EST]** with a real figure.
+**Correction to the prior version of this document: I wrongly stated the brief pre-approved sample purchases. It does not. Nothing is pre-approved.**
 
-**To proceed past Phase 1:**
-1. Fill the placeholders in §1.2 (or tell me to use my suggested defaults).
-2. **Target countries** — confirm US, or tell me otherwise; several picks change if not.
-3. Which supplier app and which ad platform.
-4. Shopify + ad account access.
-
-**Sample purchases:** the brief pre-approves these. I'd order #1, #2, #3 — roughly $120–140 delivered for all three including duplicates from backup suppliers. I have **not** ordered anything, because I have no supplier account and no shipping address for you.
+No sample has been ordered and none will be. When we reach that point I will give you a specific list — CJ product URLs, quantities, and cost — and you place the orders yourself. The proposed list and its estimated cost are in `research/phase2-bundles-and-access.md` §4, for your decision, not as a request already granted.
 
 ---
 
 ## 8. Two honest flags
 
-1. **I cannot verify demand.** With the ad libraries and trend tools unreachable from here, this list is reasoning, not evidence. It is a good starting hypothesis set and it is screened hard against your rules — but if you fund a test on it without the Phase 2 verification, you are funding my judgement, not data. Say so out loud now rather than discover it at $400 spent.
-2. **Pick the niche before the product.** #1 and #2 form a coherent desk/home-office store; #3 and #5 form a coherent pet store. Mixing them makes the store read as a generic dropshipper, which is precisely what kills trust and conversion rate. My recommendation: **desk/home-office, hero product #1, #2 as the AOV-raising second SKU.**
+1. **I cannot verify demand from here.** Ad libraries and trend tools are unreachable in this environment. This list is reasoning, not evidence. The Claude-in-Chrome checks in the companion document are what convert it — until those are run, funding a test on this list means funding my judgement.
+2. **Pick the niche before the product.** #1 and #2 form a coherent desk/home-office store; #3 and #5 form a pet store. Mixing them makes the store read as a generic dropshipper, which is what kills conversion rate. **Recommendation: desk/home-office, #1 as hero, #2 as the AOV-raising second SKU, #3 held as the pivot.**
 
 ---
 
