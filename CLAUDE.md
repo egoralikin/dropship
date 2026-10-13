@@ -33,7 +33,9 @@ Set by the user 2026-09-17. A browser chat with no context may ask for them agai
 | Samples | Not pre-approved. Each needs sign-off; **the user places every order** |
 | Payouts / banking | Never mine, under any instruction |
 
-**Current hero:** felt Desk Set, $75. The $69 desk cable kit was dropped 2026-09-17 — Amazon Prime
+**Current hero:** none. The felt Desk Set at $75 was recommended for retirement 2026-10-13 (see
+`deskset-verdict.md`): large felt mats sell at $25–31 and mat-plus-coaster sets under $25, so the bundle
+asks ~+$45 with no brand, sample or photos to carry it. Previously: The $69 desk cable kit was dropped 2026-09-17 — Amazon Prime
 already sells the bundle. Dog car kit ($79) is the pivot, pending the niche decision in
 `phase2-bundles-and-access.md` §0.
 
@@ -60,6 +62,9 @@ already sells the bundle. Dog car kit ($79) is the pivot, pending the niche deci
 | `research/phase2-bundles-and-access.md` | Economics, break-even math, budget, access plan, niche decision |
 | `research/cj-quote-worksheet.md` | Blank worksheet converting `[EST]` → `[QUOTED]` |
 | `research/deskset-check-brief.md` | **Current** brief — paste into a browser chat to validate the hero |
+| `research/deskset-verdict.md` | Check 1 result: Desk Set at $75 recommended for retirement |
+| `research/autopilot-review.md` | Review of the live autopilot handoff — nothing verified, findings ranked |
+| `research/publish-gate-checklist.md` | Per-product sign-off before approving any autopilot publish |
 | `research/handoff-brief.md` | Superseded by `deskset-check-brief.md`; kept for the check method |
 
 Branch: `claude/affectionate-shannon-5954qk`.
